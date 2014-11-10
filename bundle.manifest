@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-SymbolicName: ServiceDate
+Bundle-Name: ServiceDate
+Bundle-Version: 1.0.0
+Bundle-ManifestVersion: 2
+Bundle-Activator: servicedate.Activator
+Import-Package: org.osgi.framework
+Export-Package: org.knopflerfish.tutorial.ds
+
